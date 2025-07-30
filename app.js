@@ -11,9 +11,9 @@ exibirTextoNaTela('p', 'Escolha um número de 1 a 10');
 alert('Bem-vindo ao Jogo do Número Secreto! Tente adivinhar o número de 1 a 100.');
 
 function verificarChute() {
-    console.log(numeroSecreto);
+    let chute = document.querySelector('input').value;
+    console.log(chute == numeroSecreto);
 }
-
 function gerarNumeroAleatorio() {
     return parseInt(Math.random() * 100 + 1);
 }
