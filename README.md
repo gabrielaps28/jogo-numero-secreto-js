@@ -1,30 +1,45 @@
-# jogo-numero-secreto-js
-Mini jogo de adivinhação de número secreto feito com HTML, CSS e JavaScript, para treinar lógica de programação e manipulação de entrada do usuário de forma simples e divertida.
+# Jogo do Número Secreto
 
-🎮 Jogo do Número Secreto 
-[![HTML](https://img.shields.io/badge/HTML-5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+Mini jogo de adivinhação de número secreto desenvolvido com **HTML**, **CSS** e **JavaScript**. O objetivo é reforçar conceitos fundamentais de lógica de programação e interação com o usuário de forma simples, prática.
 
-
-Este é um mini jogo de adivinhação onde o usuário tenta descobrir o número secreto entre 1 e 10.
-
-✅ **Tecnologias utilizadas:**
-- HTML
-- CSS
-- JavaScript
-
-✅ **Funcionalidades:**
-- Alert de boas-vindas
-- Usuário digita um número via `prompt`
-- Mensagem se acertar ou errar
-- Layout responsivo simples com estilo moderno
-
-✅ **Objetivo do projeto:**
-- Praticar lógica de programação
-- Treinar manipulação do DOM e inputs de usuário
-- Organizar estrutura de arquivos em projetos web
+Projeto em desenvolvimento — este repositório faz parte do curso de JavaScript da [Alura](https://www.alura.com.br/), e está sendo atualizado conforme avanço nos estudos.
 
 ---
 
-🚀 Sinta-se livre para clonar e adaptar para treinar sua lógica de JavaScript.
+##  Descrição
+
+O usuário deve adivinhar um número secreto aleatório entre 1 e 10. A cada tentativa, o sistema informa se a resposta está correta ou não, utilizando mensagens interativas. Um pequeno exercício ideal para iniciantes praticarem manipulação de entrada, estruturas de decisão e organização de arquivos em projetos web.
+
+---
+
+## Tecnologias Utilizadas
+
+- **HTML5**  
+- **CSS3**  
+- **JavaScript (Vanilla)**  
+
+---
+
+## Funcionalidades
+
+- Mensagem de boas-vindas ao iniciar o jogo  
+- Entrada do usuário via `prompt()`  
+- Verificação de acerto com mensagens dinâmicas  
+- Interface simples, com layout responsivo e estilização moderna  
+
+---
+
+## Objetivos do Projeto
+
+- Praticar lógica de programação com JavaScript  
+- Aprender manipulação do DOM e entrada de dados do usuário  
+- Estruturar arquivos de forma organizada em um projeto web real  
+
+---
+
+##  Como executar
+
+Você pode clonar o repositório e abrir o arquivo `index.html` diretamente em seu navegador:
+
+```bash
+git clone https://github.com/gabrielaps28/jogo-numero-secreto-js.git
